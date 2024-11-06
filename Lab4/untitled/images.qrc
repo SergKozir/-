@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>fly.png</file>
+        <file>swatter.png</file>
+    </qresource>
+</RCC>
